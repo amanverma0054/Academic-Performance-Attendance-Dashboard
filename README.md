@@ -3,6 +3,8 @@
 🚀 Power BI | Web Connectors | DAX
 📅 Feb 2025 – March 2025
 
+Dashbaord Web Link - https://bit.ly/47Ib26h
+
 📌 Project Overview
 
 The Academic Performance & Attendance Dashboard is an interactive analytics solution developed to monitor student academic performance, batch attendance trends, and overall learning engagement.
